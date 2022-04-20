@@ -1,0 +1,12 @@
+.DS_Store
+
+*.draft.*
+*.notes.*
+*out
+
+.obsidian
+.trash
+.env
+
+node_modules
+package-lock.json
