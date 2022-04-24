@@ -1,3 +1,3 @@
 # Mathematics
 
-Notation and code implementation examples –
+Private notes about notation and implementations as code –
